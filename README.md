@@ -3,4 +3,4 @@ I'm a full-time computer science student at the University of North Carolina at 
 
 ## Current Projects
 * [Sock Engine](https://github.com/odesai840/Sock-Engine)
-* [SockRT_Engine](https://github.com/odesai840/SockRT-Engine)
+* [SockRT Engine](https://github.com/odesai840/SockRT-Engine)
