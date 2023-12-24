@@ -1,5 +1,5 @@
 ## About Me
-I'm a full-time computer science student at the University of North Carolina at Charlotte. I'm interested in a variety of topics including game development, computer graphics, mixed reality, full-stack development, artificial intelligence, robotics, computer hardware, and machine learning.
+I'm a full-time computer science student at the University of North Carolina at Charlotte. I'm interested in a variety of topics including game development, computer graphics, mixed reality, web development, operating systems, artificial intelligence, robotics, computer hardware, and machine learning.
 
 ## Current Projects
 * [Sock Engine](https://github.com/odesai840/Sock-Engine) (A 3D graphics engine made with DirectX 11 and the Windows API)
