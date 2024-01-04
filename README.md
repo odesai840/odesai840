@@ -5,4 +5,7 @@ I'm a full-time computer science student at the University of North Carolina at 
 * [Sock Engine](https://github.com/odesai840/Sock-Engine) (A 3D graphics engine made with DirectX 11 and the Windows API)
 * [SockRT Engine](https://github.com/odesai840/SockRT-Engine) (A ray tracing engine made using the Vulkan API)
 * A recreation of [PlayNest](https://github.com/odesai840/PlayNest) made with React, Node.js, and JavaScript/TypeScript
-* A horror game made in Unreal Engine 5 (currently unnamed)
+
+## Links
+LinkedIn: https://www.linkedin.com/in/ohm-desai/
+itch.io: https://sock8416.itch.io/
