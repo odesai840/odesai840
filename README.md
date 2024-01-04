@@ -7,4 +7,4 @@ I'm a full-time computer science student at the University of North Carolina at 
 * A recreation of [PlayNest](https://github.com/odesai840/PlayNest) made with React, Node.js, and JavaScript/TypeScript
 
 ## Game Dev
-My most recent game dev projects can be found at [itch.io](https://sock8416.itch.io/)
+My most recent game dev projects can be found on [itch.io](https://sock8416.itch.io/).
