@@ -7,5 +7,5 @@ I'm a full-time computer science student at the University of North Carolina at 
 * A recreation of [PlayNest](https://github.com/odesai840/PlayNest) made with React, Node.js, and JavaScript/TypeScript
 
 ## Links
-LinkedIn: https://www.linkedin.com/in/ohm-desai/
-itch.io: https://sock8416.itch.io/
+* LinkedIn: https://www.linkedin.com/in/ohm-desai/
+* itch.io: https://sock8416.itch.io/
