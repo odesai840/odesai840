@@ -6,6 +6,5 @@ I'm a full-time computer science student at the University of North Carolina at 
 * [SockRT Engine](https://github.com/odesai840/SockRT-Engine) (A ray tracing engine made using Vulkan)
 * A recreation of [PlayNest](https://github.com/odesai840/PlayNest) made with React, Node.js, and JavaScript/TypeScript
 
-## Links
-* LinkedIn: https://www.linkedin.com/in/ohm-desai/
-* itch.io: https://sock8416.itch.io/
+## Game Dev
+My most recent game dev projects can be found at [itch.io](https://sock8416.itch.io/)
