@@ -2,7 +2,7 @@
 I'm a full-time computer science student at the University of North Carolina at Charlotte. I'm interested in a variety of topics including game development, computer graphics, mixed reality, web development, operating systems, artificial intelligence, robotics, computer hardware, and machine learning.
 
 ## Current Projects
-* [RT Engine](https://github.com/odesai840/RT-Engine) (A ray tracing engine made using Vulkan)
+* [SockRT Engine](https://github.com/odesai840/SockRT-Engine) (A ray tracing engine made using Vulkan)
 * A complete rewrite of [PlayNest](https://github.com/odesai840/PlayNest) made with React, Node.js, and JavaScript/TypeScript.
 
 ## Game Dev
