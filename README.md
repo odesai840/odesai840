@@ -6,7 +6,7 @@ I'm a full-time computer science student at the University of North Carolina at 
 * A first-person horror game made with Unreal Engine 5.
 * [SockRT Engine](https://github.com/odesai840/SockRT-Engine) - A ray tracing engine made using Vulkan.
 * A complete rewrite of [PlayNest-Old](https://github.com/odesai840/PlayNest-Old) made with React, Node.js, and JavaScript/TypeScript.
-* An upgraded version of [Sock-Engine-Old](https://github.com/odesai840/Sock-Engine-Old) made with Rust and WebGPU.
+* An upgraded version of [Sock Engine (DX11)](https://github.com/odesai840/Sock-Engine-DX11) made with Rust and WebGPU.
 
 ## Game Dev
 My most recent game dev projects can be found on [itch.io](https://sock8416.itch.io/).
