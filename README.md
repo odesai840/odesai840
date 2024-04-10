@@ -6,7 +6,7 @@ I'm a full-time computer science student at the University of North Carolina at 
 * [CapstoneGame](https://github.com/odesai840/CapstoneGame) A first-person horror game made with Unreal Engine 5.
 * [SockRT Engine](https://github.com/odesai840/SockRT-Engine) - A ray tracing engine made using Vulkan.
 * A complete rewrite of [PlayNest](https://github.com/odesai840/PlayNest) made with React, Node.js, and JavaScript/TypeScript.
-* [Sock Engine (WebGPU)](https://github.com/odesai840/Sock-Engine-WebGPU) - An upgraded version of [Sock Engine (DX11)](https://github.com/odesai840/Sock-Engine-DX11) made with Rust and WebGPU.
+* [Sock Engine (WebGPU)](https://github.com/odesai840/Sock-Engine-WebGPU) - An attempt at remaking [Sock Engine (DX11)](https://github.com/odesai840/Sock-Engine-DX11) using Rust and WebGPU.
 
 ## Note
 My most recent game dev projects can be found on [itch.io](https://sock8416.itch.io/).
