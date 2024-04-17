@@ -5,7 +5,6 @@ I'm a full-time computer science student at the University of North Carolina at 
 * [AdvGameDev](https://github.com/odesai840/AdvGameDev) - A fast-paced FPS game made with Unity
 * [CapstoneGame](https://github.com/odesai840/CapstoneGame) - A first-person horror game made with Unreal Engine 5.
 * [SockRT Engine](https://github.com/odesai840/SockRT-Engine) - A ray tracing engine made using Vulkan.
-* [Sock Engine (WebGPU)](https://github.com/odesai840/Sock-Engine-WebGPU) - An attempt at remaking [Sock Engine (DX11)](https://github.com/odesai840/Sock-Engine-DX11) using Rust and WebGPU.
 
 ## Note
 My most recent game dev projects can be found on [itch.io](https://sock8416.itch.io/).
