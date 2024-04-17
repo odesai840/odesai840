@@ -4,6 +4,7 @@ I'm a full-time computer science student at the University of North Carolina at 
 ## Current Projects (in order of when I plan to finish them)
 * [AdvGameDev](https://github.com/odesai840/AdvGameDev) - A fast-paced FPS game made with Unity
 * [CapstoneGame](https://github.com/odesai840/CapstoneGame) - A first-person horror game made with Unreal Engine 5.
+* Snek Engine - An OpenGL graphics engine specifically created to play the game *Snake*
 * [SockRT Engine](https://github.com/odesai840/SockRT-Engine) - A ray tracing engine made using Vulkan.
 * [Sock Engine (WebGPU)](https://github.com/odesai840/Sock-Engine-WebGPU) - An attempt at remaking [Sock Engine (DX11)](https://github.com/odesai840/Sock-Engine-DX11) using Rust and WebGPU.
 
