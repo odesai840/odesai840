@@ -1,5 +1,5 @@
 ## About Me
-I'm a full-time computer science student at the University of North Carolina at Charlotte. I'm interested in a variety of topics including game development, computer graphics, systems programming, mixed reality, web development, artificial intelligence, machine learning, and robotics.
+I'm a full-time computer science student at the University of North Carolina at Charlotte. I'm interested in a variety of topics including game development, graphics programming, systems programming, web development, artificial intelligence, machine learning, and robotics.
 
 ## Current Projects (in order of when I plan to finish them)
 * [AdvGameDev](https://github.com/odesai840/AdvGameDev) - A fast-paced FPS game made with Unity
