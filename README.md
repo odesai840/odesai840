@@ -9,3 +9,6 @@ I'm a full-time computer science student at the University of North Carolina at 
 
 ## Game Dev Projects
 My most recent game dev projects can be found on [itch.io](https://sock8416.itch.io/).
+
+![](https://github-readme-stats.vercel.app/api?username=odesai840)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=odesai840&show_icons=true&locale=en&layout=compact)
