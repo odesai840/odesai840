@@ -2,7 +2,7 @@
 I'm a full-time computer science student at the University of North Carolina at Charlotte. I'm interested in a variety of topics including game development, graphics programming, web development, artificial intelligence, and machine learning.
 
 ## Currently Working On
-* [GLEngine](https://github.com/odesai840/GLEngine) - A graphics engine made with C++ and OpenGL.
+* [SockGL](https://github.com/odesai840/SockGL) - A graphics engine made with C++ and OpenGL.
 * [RayTracer](https://github.com/odesai840/RayTracer) - A ray tracer made with C++ and CMake.
 * [SockTek](https://github.com/odesai840/SockTek) - A graphics engine made using D3D11 and Win32.
 * [SockRT](https://github.com/odesai840/SockRT) - A ray tracing engine made using Vulkan.
