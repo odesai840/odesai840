@@ -11,7 +11,6 @@ Long term projects:
 * [SockGL](https://github.com/odesai840/SockGL) - A game engine made with C++ and OpenGL.
 * [RayTracer](https://github.com/odesai840/RayTracer) - A ray tracer made with C++ and CMake.
 * [SockRT](https://github.com/odesai840/SockRT) - A ray tracing engine made using Vulkan.
-* [wgpu engine](https://github.com/odesai840/wgpu-engine) - A graphics engine made using Rust and WebGPU.
 
 ## Game Dev Projects
 My most recent game dev projects (and playable builds) can be found on my [itch.io](https://sock8416.itch.io/) profile.
