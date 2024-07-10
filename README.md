@@ -10,7 +10,6 @@ Long term projects:
 * Studying GPU architecture and Calculus 3.
 * [SockGL](https://github.com/odesai840/SockGL) - A graphics engine made with C++ and OpenGL.
 * [RayTracer](https://github.com/odesai840/RayTracer) - A ray tracer made with C++ and CMake.
-* [SockTek](https://github.com/odesai840/SockTek) - A graphics engine made using D3D11 and Win32.
 * [SockRT](https://github.com/odesai840/SockRT) - A ray tracing engine made using Vulkan.
 * [wgpu engine](https://github.com/odesai840/wgpu-engine) - A graphics engine made using Rust and WebGPU.
 
