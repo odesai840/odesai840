@@ -14,7 +14,3 @@ Long term projects:
 
 ## Game Dev Projects
 My most recent game dev projects (and playable builds) can be found on my [itch.io](https://sock8416.itch.io/) profile.
-
-## My GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=odesai840)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=odesai840&show_icons=true&locale=en&layout=compact)
