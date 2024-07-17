@@ -6,7 +6,7 @@ I'm a full-time computer science student at the University of North Carolina at 
 * [Pirate Software Jam 15](https://itch.io/jam/pirate)
 * Preparing for [GMTK Game Jam 2024](https://itch.io/jam/gmtk-2024).
 
-Long term projects:
+Long term endeavors:
 * Studying GPU architecture and Calculus 3.
 * [Sock Engine](https://github.com/odesai840/Sock-Engine) - A graphics engine made with C++ and OpenGL.
 * [RayTracer](https://github.com/odesai840/RayTracer) - A ray tracer made with C++ and CMake.
