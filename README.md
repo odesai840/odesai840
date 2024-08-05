@@ -8,7 +8,7 @@ I'm a full-time computer science student at the University of North Carolina at 
 
 Long term endeavors:
 * Studying GPU architecture and Calculus 3.
-* [SockGL](https://github.com/odesai840/Sock-Engine) - A game engine made with C++ and OpenGL.
+* [SockGL](https://github.com/odesai840/SockGL) - A game engine made with C++ and OpenGL.
 * [RayTracer](https://github.com/odesai840/RayTracer) - A ray tracer made with C++ and CMake.
 * [SockRT](https://github.com/odesai840/SockRT) - A ray tracing engine made using Vulkan.
 
