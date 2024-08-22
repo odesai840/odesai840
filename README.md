@@ -4,7 +4,6 @@ I'm a full-time computer science student at the University of North Carolina at 
 ## Currently Working On
 * My first Steam game.
 * Studying GPU architecture and Calculus 3.
-* Preparing for [GMTK Game Jam 2024](https://itch.io/jam/gmtk-2024).
 
 Long term endeavors:
 * [SockGL](https://github.com/odesai840/SockGL) - A game engine made with C++ and OpenGL.
