@@ -1,5 +1,5 @@
 ## About Me
-I'm a graduate computer science student at North Carolina State University. I primarily work on game development and graphics programming.
+I'm a graduate computer science student at North Carolina State University. I primarily work on game development and graphics programming projects.
 
 ## Currently Working On
 * Multiple games, primarily made with Unreal Engine 5 and Godot.
