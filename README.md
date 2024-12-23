@@ -1,5 +1,5 @@
 ## About Me
-I'm a full-time computer science student at the University of North Carolina at Charlotte. I'm interested in a variety of topics including game development, graphics programming, mobile app development, and artificial intelligence.
+I'm a graduate computer science student at North Carolina State University. I primarily work on game development and graphics programming.
 
 ## Currently Working On
 * Multiple games, primarily made with Unreal Engine 5 and Godot.
